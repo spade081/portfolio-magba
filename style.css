@@ -28,11 +28,7 @@
 	background-image: url(./images/main-back.jpg);
 
 }
-.hero-main img{
-	height: 30vh;
-	width: 60vh;
-	box-shadow: 2px 50px 50px rgb(0, 0, 0)
-}
+
  .hero-main .resumebtn button{
 	width: 200px;
 	height: 50px;
@@ -54,11 +50,17 @@
 
 	color: var(--primary);
 }
+.main .about img{
+	height: 50vh;
+	width: 50vh;
+	box-shadow: 2px 50px 50px rgb(0, 0, 0)
+}
 .main .about{
 
 	display: grid;
-	grid-auto-rows: 380px 1fr;
+	grid-auto-rows: 250px 1fr;
 	background-color: #121229;
+
 	
 }
 
@@ -82,16 +84,20 @@
 	transition:  200ms ease-in;
 }
 .main .services{
-
+	height: auto;
 	display: grid;
 	grid-template-rows: auto 1fr;
 	background-color: #121229;
 }
 .main .services img{
-	height: 100px;
-	width: 100px;
-}
+	height: 200px;
+	width: 200px;
 
-.main .services .hero-service-2 h5{
+	
+}
+.main .services h5{
 	color: var(--primary);
 }
+
+
+

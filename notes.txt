@@ -1,0 +1,102 @@
+<!-- hero-main 1 -->
+			<div class="hero-service-1">fd
+
+
+			</div>
+			<!--  -->
+
+			<!-- hero main 2 -->
+				<div class="hero-service-2">
+					<div class="row ">
+						<div class="col-6 col-md-3 d-flex flex-column align-items-center text-center border border-1 bg-warning ">
+							<img src="./images/logo-html5.png">
+							<h5>HTML 5</h5>
+						
+							<p>Build responsive, mobile projects on the web with the world's most popular fron-end component library.</p>
+						</div>
+						<div class="col-6 col-md-3 d-flex flex-column align-items-center text-cente">
+							<img src="./images/logo-css3.png">
+							<h5>HTML 5</h5>
+						
+							<p>Build responsive, mobile projects on the web with the world's most popular fron-end component library.</p>
+						</div>
+						<div class="col-6 col-md-3 d-flex flex-column align-items-center text-cente">
+							<img src="./images/logo-javascript.png">
+							<h5>HTML 5</h5>
+						
+							<p>Build responsive, mobile projects on the web with the world's most popular fron-end component library.</p>
+						</div>
+						<div class="col-6 col-md-3 d-flex flex-column align-items-center text-center">
+							<img src="./images/logo-bootstrap.png">
+							<h5>Bootstrap</h5>
+							<p>Build responsive, mobile projects on the web with the world's most popular fron-end component library.</p>
+						</div>
+					</div>
+
+					<div class="row">
+						<div class="col-6 col-md-3 d-flex flex-column align-items-center text-cente">
+							<img src="./images/logo-git.png">
+							<h5>GIT</h5>
+						
+							<p>Build responsive, mobile projects on the web with the world's most popular fron-end component library.</p>
+						</div>
+						<div class="col-6 col-md-3 d-flex flex-column align-items-center text-cente">
+							<img src="./images/logo-gitlab-ci-cd.png">
+							<h5>GITLAB/CD</h5>
+						
+							<p>Build responsive, mobile projects on the web with the world's most popular fron-end component library.</p>
+						</div>
+						<div class="col-6 col-md-3 d-flex flex-column align-items-center text-cente">
+							<img src="./images/logo-react.png">
+							<h5>REACT</h5>
+						
+							<p>Build responsive, mobile projects on the web with the world's most popular fron-end component library.</p>
+						</div>
+						<div class="col-6 col-md-3 d-flex flex-column align-items-center text-center">
+							<img src="./images/logo-mongodb.png">
+							<h5>MONGODB</h5>
+							<p>Build responsive, mobile projects on the web with the world's most popular fron-end component library.</p>
+						</div>
+					</div>
+						
+				</div>
+				<!--end hero main 2 -->
+
+
+
+
+
+
+
+                <div class="col-md-6 ">
+							<h3>Graudate in Pamantasan ng Lungsod ng Muntilupa.</h3>
+							<ul class="list-unstyled">
+								<li>Proficient in Microsoft Office & majority of windows based application.</li>
+								<li>Hardware/Software Troubleshooting.</li>
+								<li>Basic Knowledge in:
+								
+									<li>HTML 5, CSS , JAVASCRIPT , BOOTSTRAP, PHOTOSHOP </li>
+									<li>React,EXPRESS & NODE JS, AND GITLAB.</li> </li>
+									
+							
+								</li>
+							</ul>
+						</div>
+
+						<div class="col-md-6 mt-3">
+							<h3 class="mb-3">WORKING EXPERIENCE</h3>
+							<h4>Electronics Assembly</h4>
+							<p>2018-2021</p>
+						
+						
+						
+						
+						</div>
+
+						<div class="col-md-6 text-center mt-3">
+							<h3>HITACHI JOHNSON CONTROLS JAPAN</h3>
+							<p>Responsible for checking the temperature of an aircon and reporting to leader if have unnecessary happen. </p>
+							<p>Maintainig the cleanliness of department.</p>
+							<p>JLPT-4 (Japanese Language Proficiency Test Passer)</p>
+							<p>Can able to Speak and Write Japanese</p>
+							
