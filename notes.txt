@@ -100,3 +100,120 @@
 							<p>JLPT-4 (Japanese Language Proficiency Test Passer)</p>
 							<p>Can able to Speak and Write Japanese</p>
 							
+
+Service card
+<div class="container-fluid">
+			<div class="text-center my-5">
+				<h5>MY SERVICES</h5>
+				<h3>DESIGN WITH CARE,</h3>
+				<h3>FILLED WITH CREATIVE ELEMENTS.</h3>
+			</div>
+			<!-- Start of card deck -->
+			<div class="card-deck ">
+			
+
+		
+				<div class="card align-items-center  bg-dark">
+				  <img src="./images/logo-html5.png" class="card-img-top" alt="...">
+				  <div class="card-body">
+					<h5 class="card-title">HTML 5</h5>
+					<p class="card-text ">HTML 5 is the standard markup language for web pages. With HTML you can create your own websites</p>
+			
+				  </div>
+				</div>
+				<div class="card align-items-center  bg-dark">
+				  <img src="./images/logo-css3.png" class="card-img-top" alt="...">
+				  <div class="card-body">
+					<h5 class="card-title">CSS</h5>
+					<p class="card-text">CSS is the languages we use to style an HTML documents. It's designed to enable the
+						 separation of presentation and content, including layout, colors and fonts.</p>
+					
+				  </div>
+				</div>
+				<div class="card align-items-center  bg-dark">
+				  <img src="./images/logo-javascript.png" class="card-img-top" alt="...">
+				  <div class="card-body">
+					<h5 class="card-title">JAVASCRIPT</h5>
+					<p class="card-text">Javascript is a programming language commonly used in web development. It was
+						originally developed by Netscape as a means to add dynamic and interactive elements.</p>
+				
+				  </div>
+				</div>
+			</div>
+			 
+			  <!-- End of card deck -->
+			  <!-- Start of card deck -->
+			  <div class="card-deck mt-2">
+				<div class="card align-items-center  bg-dark">
+				  <img src="./images/logo-bootstrap.png" class="card-img-top" alt="...">
+				  <div class="card-body">
+					<h5 class="card-title">BOOTSTRAP</h5>
+					<p class="card-text">Bootstrap is a free and open source frond end development framework for the creation of websites and web apps.</p>
+				
+				  </div>
+				</div>
+				<div class="card align-items-center  bg-dark">
+				  <img src="./images/logo-react.png" class="card-img-top" alt="...">
+				  <div class="card-body">
+					<h5 class="card-title">REACT</h5>
+					<p class="card-text">REACT JS is a Javascript library that can be used to build user interfaces. With react, users can create reusable components
+						and these components display data as it changes over time.</p>
+				
+				  </div>
+				</div>
+				<div class="card align-items-center  bg-dark">
+				  <img src="./images/logo-gitlab-ci-cd.png" class="card-img-top" alt="...">
+				  <div class="card-body">
+					<h5 class="card-title">GITLAB</h5>
+					<p class="card-text">GitLab automatically renders markdown conten. For example, when you add a comment to an issue, you type the text in
+						the markdown languages. When you save the issue, the text is rendered with a set of styles. These styles are descibed on this page.
+					</p>
+				  </div>
+				</div>
+			
+		
+			
+			  </div>
+			  <h1 class="text-center mt-5">Tools</h1>
+			  	<div class="logo-container d-flex flex-wrap justify-content-center" >
+					
+					<img src="./images/logo-bootstrap.png">
+					<img src="./images/logo-css3.png">
+					<img src="./images/logo-expressjs.png">
+					<img src="./images/logo-git.png">
+					<img src="./images/logo-gitlab-ci-cd.png">
+					<img src="./images/logo-heroku.png">
+					<img src="./images/logo-html5.png">
+					<img src="./images/logo-javascript.png">
+					<img src="./images/logo-mongodb.png">
+					<img src="./images/logo-postman.png">
+					<img src="./images/logo-react.png">
+					
+					<img src="./images/logo-rest.png">
+			</div>
+			  <!-- End of card deck -->
+			</div>
+
+css service
+
+.main .services{
+
+	display: grid;
+	grid-template-rows: auto 1fr;
+	background-color: #121229;
+}
+.main .services img{
+	height: 200px;
+	width: 200px;
+
+	
+}
+.main .services h5{
+	color: var(--primary);
+}
+.main .services .logo-container img{
+	margin-top:20px;
+	height: 80px;
+	width: 80px;
+	
+}

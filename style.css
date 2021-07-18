@@ -4,7 +4,9 @@
 	box-sizing: border-box;
 	font-family: 'Roboto', sans-serif;
 	color: #e6e6e8;
+	scroll-behavior: smooth;
 }
+
 :root {
 	--primary: #dac404;
 	
@@ -21,7 +23,8 @@
 .main .hero-main{
 	height: 100vh;
 	display: grid;
-	grid-template-rows: auto 1fr;
+	margin-top:55px;
+
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -57,7 +60,7 @@
 .main .about{
 	padding-top: 150px;
 	padding-bottom: 150px;
-	background-color: #121229;
+	background-color: #1f2030;
 	
 }
 .about-me-content h1{
@@ -80,8 +83,9 @@
 	border:none;
 	transition:  200ms ease-in;
 }
-.main .services{
 
+.main .services{
+	padding-bottom:100px;
 	display: grid;
 	grid-template-rows: auto 1fr;
 	background-color: #121229;
@@ -95,6 +99,13 @@
 .main .services h5{
 	color: var(--primary);
 }
+.main .services .logo-container img{
+	margin-top:20px;
+	height: 80px;
+	width: 80px;
+	
+}
+
 
  .social-icon a{
     width: 40px;
@@ -131,12 +142,11 @@
 
 .main .contact{
 	
-	height: 100vh;
-	background-color: #121229;
+	height: 100vh auto;
+	background-color: #1f2030;
 }
 .main .contact .contact-box{
-	margin: 0;
-	padding: 0;
+	height: 937px;
 	display: grid;
 	grid-template-rows: auto 1fr;
 }
@@ -162,7 +172,19 @@ font-size: 15px;
 }
 
 
+footer{
+	
+	background-color: #121229;
+	display: grid;
+	grid-auto-rows: auto;
+}
 
-
+footer p{
+	font-weight: 700;
+	text-transform: uppercase;
+	line-height: 25px;
+font-size: 30px;
+	color: var(--primary)
+}
 
 
