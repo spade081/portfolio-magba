@@ -196,24 +196,3 @@ Service card
 
 css service
 
-.main .services{
-
-	display: grid;
-	grid-template-rows: auto 1fr;
-	background-color: #121229;
-}
-.main .services img{
-	height: 200px;
-	width: 200px;
-
-	
-}
-.main .services h5{
-	color: var(--primary);
-}
-.main .services .logo-container img{
-	margin-top:20px;
-	height: 80px;
-	width: 80px;
-	
-}
